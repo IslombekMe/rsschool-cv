@@ -49,4 +49,4 @@ and online articles at [RayWenderlich.com](https://raywenderlich.com)
 * (2018 - present) Angular.io, Reactive Fox's articles and overall articles on RXJS and Angular.
 
 ## English
-IELTS 8.0 (Listening: 9.0, Reading: 8.5, Speaking: 8.5, Writing: 6.0).
+IELTS 8.0 (Listening :ear:: 9.0, Reading :eye:: 8.5, Speaking :handshake:: 8.5, Writing :writing_hand:: 6.0).
