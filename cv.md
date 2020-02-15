@@ -1,6 +1,8 @@
 # Islombek Khasanov's CV
+
 > “What doesn’t transmit light creates its own darkness.” 
 >  M. Aurelius.
+
 ## Welcome letter and Contact Details.
 Hello, my name is **Islombek Khasanov** and I welcome you to my online CV. I hope you'll find this as much enjoyable as I did.
 You can find me via:
